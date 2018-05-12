@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8014'
     url: http://www.gutenberg.org/2009/agents/8014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36837#The-Lure-of-the-PenA-book-for-Would-Be-Authors
 gutenberg_issued: '2011-07-24'
 gutenberg_type: Text
 identifiers:
