@@ -1,0 +1,26 @@
+_repo: The-Lure-of-the-PenA-book-for-Would-Be-Authors_36837
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Klickmann, Flora
+    birthdate: 1867
+    deathdate: 1958
+    gutenberg_agent_id: '8014'
+    url: http://www.gutenberg.org/2009/agents/8014
+description: ''
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship -- Handbooks, manuals, etc.'
+- !lcc 'PN'
+title: 'The Lure of the Pen: A Book for Would-Be Authors'
+url: http://www.gutenberg.org/ebooks/36837
